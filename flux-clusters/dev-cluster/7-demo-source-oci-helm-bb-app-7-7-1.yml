@@ -11,4 +11,4 @@ spec:
     tag: 7.7.1
   secretRef:
     name: ghcr-auth
-  url: oci://ghcr.io/azuladoparfois/bb-app
+  url: oci://ghcr.io/azuladoparfois/bb-app/manifests/block-buster-helm-app
